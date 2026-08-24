@@ -102,8 +102,6 @@ Cosmetic-Insights/
 │
 ├── Screenshots/
 │   ├── Dashboard.png
-│   ├── Story.png
-│   └── Worksheets.png
 │
 ├── README.md
 └── LICENSE (Optional)
