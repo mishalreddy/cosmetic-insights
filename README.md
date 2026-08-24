@@ -57,7 +57,7 @@ The project helps users understand product categories, brand performance, pricin
 - Price vs Rank Analysis
 - Skin Type Count
 - Interactive Dashboard
-- Tableau Story
+- Tableau story
 
 ---
 
@@ -73,20 +73,6 @@ The dashboard provides an interactive overview of cosmetic products by displayin
 - Brand Distribution
 - Skin Type Distribution
 
----
-
-## 📖 Tableau Story
-
-The Tableau Story presents the project findings through multiple story points:
-
-1. Dashboard Overview
-2. Category-wise Product Distribution
-3. Category-wise Revenue Analysis
-4. Top 10 Brands
-5. Average Product Pricing
-6. Price vs Rank Analysis
-7. Brand Count
-8. Skin Type Distribution
 
 ---
 
@@ -128,9 +114,11 @@ Cosmetic-Insights/
 ## 🌐 Tableau Public
 
 **Profile:**
-
 https://public.tableau.com/app/profile/yerragundla.mishal/vizzes
 
+**Dashboard link:**
+
+https://public.tableau.com/app/profile/yerragundla.mishal/viz/cosmeticinsightsdashboard/cosmeticinsightsDashboard
 
 **
 ---
